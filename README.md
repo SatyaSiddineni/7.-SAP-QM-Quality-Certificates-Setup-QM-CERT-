@@ -48,7 +48,6 @@ SAP QM Quality Certificates
 6. Project Structure
 
             SAP-QM-QM-CERT/
-            │
             ├── README.md
             ├── Flowchart/
             │     └── QM CERT Process Flow.png
