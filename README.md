@@ -17,22 +17,24 @@ SAP QM Quality Certificates
 
 3. Process Flow
 
-            Sales Order
-                 ↓
-            Delivery Creation
-                 ↓
-            Inspection Lot Created
-                 ↓
-            Inspection Results Recorded
-                 ↓
-            Usage Decision (UD)
-                 ↓
-            Quality Certificate Generated
-                 ↓
-            Certificate Printed / Sent to Customer
+            Sales Order / Goods Receipt
+                        ↓
+            Create Inspection Lot (Automatic)
+                        ↓
+            Record Inspection Results (QE51N)
+                        ↓
+            Usage Decision (QA11)
+                     ↙ Yes                         ↘ No
+               Generate Certificate         Reject / Rework
+                    (QC20 / QC21)
+                        ↓
+               Send Certificate to Customer
+                    (Print / Email / PDF)
+                        ↓
+               Archive Certificate in SAP
 
 
-4. SAP Transaction Codes Used
+5. SAP Transaction Codes Used
    
             T-Code	          Purpose
             QS21	          Create Inspection Plan
@@ -43,7 +45,7 @@ SAP QM Quality Certificates
             VL01N	          Create Delivery
 
 
-5. Project Structure
+6. Project Structure
 
             SAP-QM-QM-CERT/
             │
