@@ -1,4 +1,4 @@
-# 7.-SAP-QM-Quality-Certificates-Setup-QM-CERT-
+SAP QM Quality Certificates
 
 
 1. Project Overview
