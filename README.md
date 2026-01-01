@@ -51,13 +51,13 @@ SAP QM Quality Certificates
             │
             ├── README.md
             ├── Flowchart/
-            │     └── QM_CERT_Process_Flow.png
+            │     └── QM CERT Process Flow.png
             │
             ├── Test_Data/
-            │     └── SAP_QM_QM_CERT_Test_Data.xlsx
+            │     └── SAP QM CERT Test Data.xlsx
             │ 
             └── Documents/
-                  └── QM_CERT_Configuration_Notes.pdf
+                  └── SAP QM CERT Documentation.pdf
 
 🙌 Author
 
