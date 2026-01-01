@@ -3,7 +3,7 @@
 
 1. Project Overview
 
-             Quality Certificates in SAP QM (QM-CERT) are used to generate and manage certificates of analysis, inspection certificates that are sent to customers or received from vendors. These certificates ensure transparency of quality results and compliance with contractual and regulatory requirements.
+            Quality Certificates in SAP QM (QM-CERT) are used to generate and manage certificates of analysis, inspection certificates that are sent to customers or received from vendors. These certificates ensure transparency of quality results and compliance with contractual and regulatory requirements.
 
             This project explains the end-to-end Quality Certificate setup, configuration steps, business process flow, and test data from an SAP QM Functional Consultant perspective.
 
