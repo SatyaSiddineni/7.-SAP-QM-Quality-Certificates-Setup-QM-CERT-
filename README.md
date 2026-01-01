@@ -34,7 +34,7 @@
 
 4. SAP Transaction Codes Used
    
-            T-Code	        Purpose
+            T-Code	          Purpose
             QS21	          Create Inspection Plan
             QE51N	          Results Recording
             QA11	          Usage Decision
