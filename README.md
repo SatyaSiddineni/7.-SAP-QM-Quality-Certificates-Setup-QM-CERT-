@@ -34,28 +34,28 @@
 
 4. SAP Transaction Codes Used
    
-          T-Code	        Purpose
-          QS21	          Create Inspection Plan
-          QE51N	          Results Recording
-          QA11	          Usage Decision
-          QC20	          Certificate Processing
-          QC21	          Display Certificate
-          VL01N	          Create Delivery
+            T-Code	        Purpose
+            QS21	          Create Inspection Plan
+            QE51N	          Results Recording
+            QA11	          Usage Decision
+            QC20	          Certificate Processing
+            QC21	          Display Certificate
+            VL01N	          Create Delivery
 
 
 5. Project Structure
 
-          SAP-QM-QM-CERT/
-          │
-          ├── README.md
-          ├── Flowchart/
-          │     └── QM_CERT_Process_Flow.png
-          │
-          ├── Test_Data/
-          │     └── SAP_QM_QM_CERT_Test_Data.xlsx
-          │ 
-          └── Documents/
-                └── QM_CERT_Configuration_Notes.pdf
+            SAP-QM-QM-CERT/
+            │
+            ├── README.md
+            ├── Flowchart/
+            │     └── QM_CERT_Process_Flow.png
+            │
+            ├── Test_Data/
+            │     └── SAP_QM_QM_CERT_Test_Data.xlsx
+            │ 
+            └── Documents/
+                  └── QM_CERT_Configuration_Notes.pdf
 
 🙌 Author
 
